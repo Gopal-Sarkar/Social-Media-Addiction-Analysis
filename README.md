@@ -19,7 +19,7 @@ This project investigates the impact of social media usage on **705 students glo
 ### 1. Executive Performance Overview
 Primary dashboard view tracking total students, average usage, and overall addiction distribution.
 
-| Power BI Dashboard (Page 1) | Tableau Dashboard (Dashboard 1) |
+| Power BI Dashboard | Tableau Dashboard |
 | :---: | :---: |
 | ![PBI Overview](Pictures/PBI_Overview.png) | ![Tab Overview](Pictures/Tab_Overview.png) |
 
@@ -30,33 +30,33 @@ Primary dashboard view tracking total students, average usage, and overall addic
 ### 2. Mental Health & Behavioral Trends
 Analyzing the relationship between addiction scores and psychological wellness scores across the student population.
 
-| Power BI Analysis (Page 2) | Tableau Analysis (Line Chart) |
-| :---: | :---: |
-| ![PBI MentalHealth](Pictures/PBI_MentalHealth.png) | ![Tab MentalHealth](Pictures/Tab_MentalHealth.png) |
+| Power BI Analysis |
+| :---: |
+| ![PBI MentalHealth](Pictures/PBI_MentalHealth.png) |
 
 **💡 Strategic Insight:** A strong **-0.95 negative correlation** exists between addiction score and mental health score. As addiction levels rise, mental health scores decline sharply — highlighting an urgent need for institutional digital wellness interventions.
 
 ---
 
-### 3. Academic Impact & Sleep Analysis
-A deep dive into how addiction levels and sleep deprivation vary across education tiers (High School, Undergraduate, Graduate).
+### 3. Academic Impact by Gender
+How addiction scores are distributed across academic levels, broken down by gender.
 
-| Power BI Analysis (Page 3) | Tableau Analysis (Column Chart) |
-| :---: | :---: |
-| ![PBI Academics](Pictures/PBI_Academics.png) | ![Tab Academics](Pictures/Tab_Academics.png) |
+| Tableau Analysis |
+| :---: |
+| ![Tab Academics](Pictures/Tab_Academics.png) |
 
-**💡 Strategic Insight:** High School students are the most vulnerable group, averaging only **5.46 hrs of sleep per night** — the lowest of all academic levels — driven by high late-night social media engagement.
+**💡 Strategic Insight:** High School students are the most vulnerable group, averaging only **5.46 hrs of sleep per night** — the lowest of all academic levels. Undergraduate females account for **82%** of that group's addiction score share.
 
 ---
 
-### 4. Global Hotspots & Relationship Conflicts (Top 10 Countries)
+### 4. Global Hotspots — Top 10 Countries
 Ranking countries with the highest addiction scores to identify where digital wellness resources are most needed.
 
-| Power BI Analysis (Page 4) | Tableau Analysis (Bar Chart) |
-| :---: | :---: |
-| ![PBI Conflicts](Pictures/PBI_Conflicts.png) | ![Tab Top10](Pictures/Tab_Top10.png) |
+| Tableau Analysis |
+| :---: |
+| ![Tab Top10](Pictures/Tab_Top10.png) |
 
-**💡 Strategic Insight:** **India** and the **USA** lead globally with cumulative addiction scores of **398** and **344** respectively. Students with a "Complicated" relationship status reported the highest average conflict scores, showing that social media habits intersect directly with personal relationship stress.
+**💡 Strategic Insight:** **India** and the **USA** lead globally with cumulative addiction scores of **398** and **344** respectively — together accounting for a significant share of the total sample's addiction burden.
 
 ---
 
@@ -96,12 +96,9 @@ Ranking countries with the highest addiction scores to identify where digital we
 ├── 📁 Pictures/
 │   ├── PBI_Overview.png
 │   ├── PBI_MentalHealth.png
-│   ├── PBI_Academics.png
-│   ├── PBI_Conflicts.png
-│   ├── Tab_Overview.png
-│   ├── Tab_MentalHealth.png
 │   ├── Tab_Academics.png
 │   └── Tab_Top10.png
+│   └── Tab_Overview.png
 │
 ├── 📁 Power_BI_Project/
 │   └── Social_Media_Addiction_Analysis_Dashboard_PowerBI_.pbix
