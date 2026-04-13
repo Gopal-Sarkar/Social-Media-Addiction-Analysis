@@ -21,7 +21,7 @@ Primary dashboard view tracking total students, average usage, and overall addic
 
 | Power BI Dashboard (Page 1) | Tableau Dashboard (Dashboard 1) |
 | :---: | :---: |
-| ![PBI Overview](pictures/PBI_Overview.png) | ![Tab Overview](pictures/Tab_Overview.png) |
+| ![PBI Overview](Pictures/PBI_Overview.png) | ![Tab Overview](Pictures/Tab_Overview.png) |
 
 **💡 Strategic Insight:** Both platforms identify a critical **"Academic Tipping Point" at 5.5 hours**. Students exceeding this limit show a 15% sharper decline in GPA compared to light users.
 
@@ -32,7 +32,7 @@ Analyzing the inverse relationship between daily screen time and psychological w
 
 | Power BI Analysis (Page 2) | Tableau Analysis (Line Chart) |
 | :---: | :---: |
-| ![PBI Health](pictures/PBI_MentalHealth.png) | ![Tab Health](pictures/Tab_MentalHealth.png) |
+| ![PBI Health](Pictures/PBI_MentalHealth.png) | ![Tab Health](Pictures/Tab_MentalHealth.png) |
 
 **💡 Strategic Insight:** A strong **-0.80 negative correlation** exists. As addiction levels rise, mental health scores decline, highlighting an urgent need for institutional digital wellness interventions.
 
@@ -43,7 +43,7 @@ A deep dive into how addiction levels vary across different education tiers (Hig
 
 | Power BI Analysis (Page 3) | Tableau Analysis (Column Chart) |
 | :---: | :---: |
-| ![PBI Academics](pictures/PBI_Academics.png) | ![Tab Academics](pictures/Tab_Academics.png) |
+| ![PBI Academics](Pictures/PBI_Academics.png) | ![Tab Academics](Pictures/Tab_Academics.png) |
 
 **💡 Strategic Insight:** High School students were found to be the most vulnerable, averaging the lowest sleep hours (**avg. 5.2 hrs/night**) due to high late-night engagement.
 
@@ -54,7 +54,7 @@ Ranking countries with the highest addiction scores to identify where digital we
 
 | Power BI Analysis (Page 4) | Tableau Analysis (Bar Chart) |
 | :---: | :---: |
-| ![PBI Conflicts](pictures/PBI_Conflicts.png) | ![Tab Top10](pictures/Tab_Top10.png) |
+| ![PBI Conflicts](Pictures/PBI_Conflicts.png) | ![Tab Top10](Pictures/Tab_Top10.png) |
 
 **💡 Strategic Insight:** Global analysis shows that students in "Complicated" relationship statuses reported **22% higher family conflict** scores, which correlates directly with high addiction rankings in these regions.
 
@@ -71,4 +71,4 @@ Ranking countries with the highest addiction scores to identify where digital we
 - 📁 **[Power_BI_Project](./Power_BI_Project):** Contains the full `.pbix` file.
 - 📁 **[Tableau_Project](./Tableau_Project):** Contains the `.twb` file.
 - 📁 **[Data](./Data):** Contains the [Raw_Student_Behavior_Dataset.xlsx](./Data/Raw_Student_Behavior_Dataset.xlsx).
-- 📁 **[pictures](./pictures):** High-resolution captures of the analysis.
+- 📁 **[pictures](./Pictures):** High-resolution captures of the analysis.
